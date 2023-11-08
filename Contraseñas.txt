@@ -1,7 +1,0 @@
-ADMINISTRADOR: 
-brenda@gmail.com
-123456
-
-USUARIO REGISTRADO: 
-mia@gmail.com
-12345
